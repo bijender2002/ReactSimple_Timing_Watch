@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ReactSimple_Timing_Watch/static/css/main.cb373f67.chunk.css",
+    "main.js": "/ReactSimple_Timing_Watch/static/js/main.2460ab93.chunk.js",
+    "main.js.map": "/ReactSimple_Timing_Watch/static/js/main.2460ab93.chunk.js.map",
+    "runtime-main.js": "/ReactSimple_Timing_Watch/static/js/runtime-main.bbcc64cf.js",
+    "runtime-main.js.map": "/ReactSimple_Timing_Watch/static/js/runtime-main.bbcc64cf.js.map",
+    "static/js/2.60fe3e3a.chunk.js": "/ReactSimple_Timing_Watch/static/js/2.60fe3e3a.chunk.js",
+    "static/js/2.60fe3e3a.chunk.js.map": "/ReactSimple_Timing_Watch/static/js/2.60fe3e3a.chunk.js.map",
+    "index.html": "/ReactSimple_Timing_Watch/index.html",
+    "static/css/main.cb373f67.chunk.css.map": "/ReactSimple_Timing_Watch/static/css/main.cb373f67.chunk.css.map",
+    "static/js/2.60fe3e3a.chunk.js.LICENSE.txt": "/ReactSimple_Timing_Watch/static/js/2.60fe3e3a.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbcc64cf.js",
+    "static/js/2.60fe3e3a.chunk.js",
+    "static/css/main.cb373f67.chunk.css",
+    "static/js/main.2460ab93.chunk.js"
+  ]
+}
